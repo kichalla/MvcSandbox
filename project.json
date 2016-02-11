@@ -4,7 +4,8 @@
   },
   "compilationOptions": {
     "emitEntryPoint": true,
-    "warningsAsErrors": true
+    "warningsAsErrors": true,
+	"preserveCompilationContext": true
   },
   "dependencies": {
     "Microsoft.AspNetCore.Diagnostics": "1.0.0-*",
